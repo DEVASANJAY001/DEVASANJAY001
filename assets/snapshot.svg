@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="Snapshot: education, organisation, experience, shipped app, location"><g transform="translate(10 10)">
+    <rect x="0" y="0" width="220" height="160" rx="18" fill="#0f0c29" fill-opacity="0.85"/>
+    <rect x="1.5" y="1.5" width="217" height="157" rx="17" fill="none" stroke="#00f5ff" stroke-opacity="0.25" stroke-width="2"/>
+    <rect x="1.5" y="1.5" width="217" height="157" rx="17" fill="none" stroke="#00f5ff" stroke-width="3" stroke-linecap="round" pathLength="1000" stroke-dasharray="180 820"><animate attributeName="stroke-dashoffset" from="0" to="-1000" dur="5.0s" repeatCount="indefinite"/></rect>
+    <g><text x="110" y="70" text-anchor="middle" font-size="42">🎓</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.0s" begin="0.0s" repeatCount="indefinite"/></g>
+    <text x="110" y="108" text-anchor="middle" font-family="'Segoe UI',Arial,Helvetica,sans-serif" font-size="21" font-weight="800" fill="#ffffff">B.E. CSE</text>
+    <text x="110" y="134" text-anchor="middle" font-family="'Segoe UI',Arial,Helvetica,sans-serif" font-size="14" fill="#00f5ff">Saveetha · 2023–2027</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.0s" fill="freeze"/>
+  </g>
+  <g transform="translate(250 10)">
+    <rect x="0" y="0" width="220" height="160" rx="18" fill="#0f0c29" fill-opacity="0.85"/>
+    <rect x="1.5" y="1.5" width="217" height="157" rx="17" fill="none" stroke="#7c3aed" stroke-opacity="0.25" stroke-width="2"/>
+    <rect x="1.5" y="1.5" width="217" height="157" rx="17" fill="none" stroke="#7c3aed" stroke-width="3" stroke-linecap="round" pathLength="1000" stroke-dasharray="180 820"><animate attributeName="stroke-dashoffset" from="0" to="-1000" dur="5.7s" repeatCount="indefinite"/></rect>
+    <g><text x="110" y="70" text-anchor="middle" font-size="42">🏢</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.4s" begin="0.3s" repeatCount="indefinite"/></g>
+    <text x="110" y="108" text-anchor="middle" font-family="'Segoe UI',Arial,Helvetica,sans-serif" font-size="21" font-weight="800" fill="#ffffff">DAVNS Industries</text>
+    <text x="110" y="134" text-anchor="middle" font-family="'Segoe UI',Arial,Helvetica,sans-serif" font-size="14" fill="#7c3aed">Products &amp; programs</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.2s" fill="freeze"/>
+  </g>
+  <g transform="translate(490 10)">
+    <rect x="0" y="0" width="220" height="160" rx="18" fill="#0f0c29" fill-opacity="0.85"/>
+    <rect x="1.5" y="1.5" width="217" height="157" rx="17" fill="none" stroke="#ff5ecb" stroke-opacity="0.25" stroke-width="2"/>
+    <rect x="1.5" y="1.5" width="217" height="157" rx="17" fill="none" stroke="#ff5ecb" stroke-width="3" stroke-linecap="round" pathLength="1000" stroke-dasharray="180 820"><animate attributeName="stroke-dashoffset" from="0" to="-1000" dur="6.4s" repeatCount="indefinite"/></rect>
+    <g><text x="110" y="70" text-anchor="middle" font-size="42">🚗</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.8s" begin="0.6s" repeatCount="indefinite"/></g>
+    <text x="110" y="108" text-anchor="middle" font-family="'Segoe UI',Arial,Helvetica,sans-serif" font-size="21" font-weight="800" fill="#ffffff">AI Intern</text>
+    <text x="110" y="134" text-anchor="middle" font-family="'Segoe UI',Arial,Helvetica,sans-serif" font-size="14" fill="#ff5ecb">Stellantis · Thiruvallur</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.4s" fill="freeze"/>
+  </g>
+  <g transform="translate(730 10)">
+    <rect x="0" y="0" width="220" height="160" rx="18" fill="#0f0c29" fill-opacity="0.85"/>
+    <rect x="1.5" y="1.5" width="217" height="157" rx="17" fill="none" stroke="#ffb347" stroke-opacity="0.25" stroke-width="2"/>
+    <rect x="1.5" y="1.5" width="217" height="157" rx="17" fill="none" stroke="#ffb347" stroke-width="3" stroke-linecap="round" pathLength="1000" stroke-dasharray="180 820"><animate attributeName="stroke-dashoffset" from="0" to="-1000" dur="7.1s" repeatCount="indefinite"/></rect>
+    <g><text x="110" y="70" text-anchor="middle" font-size="42">📱</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="4.2s" begin="0.8999999999999999s" repeatCount="indefinite"/></g>
+    <text x="110" y="108" text-anchor="middle" font-family="'Segoe UI',Arial,Helvetica,sans-serif" font-size="21" font-weight="800" fill="#ffffff">Split</text>
+    <text x="110" y="134" text-anchor="middle" font-family="'Segoe UI',Arial,Helvetica,sans-serif" font-size="14" fill="#ffb347">Live on app stores</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.6000000000000001s" fill="freeze"/>
+  </g>
+  <g transform="translate(970 10)">
+    <rect x="0" y="0" width="220" height="160" rx="18" fill="#0f0c29" fill-opacity="0.85"/>
+    <rect x="1.5" y="1.5" width="217" height="157" rx="17" fill="none" stroke="#4ade80" stroke-opacity="0.25" stroke-width="2"/>
+    <rect x="1.5" y="1.5" width="217" height="157" rx="17" fill="none" stroke="#4ade80" stroke-width="3" stroke-linecap="round" pathLength="1000" stroke-dasharray="180 820"><animate attributeName="stroke-dashoffset" from="0" to="-1000" dur="7.8s" repeatCount="indefinite"/></rect>
+    <g><text x="110" y="70" text-anchor="middle" font-size="42">📍</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="4.6s" begin="1.2s" repeatCount="indefinite"/></g>
+    <text x="110" y="108" text-anchor="middle" font-family="'Segoe UI',Arial,Helvetica,sans-serif" font-size="21" font-weight="800" fill="#ffffff">Chennai</text>
+    <text x="110" y="134" text-anchor="middle" font-family="'Segoe UI',Arial,Helvetica,sans-serif" font-size="14" fill="#4ade80">Open to work ✅</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.8s" fill="freeze"/>
+  </g>
+  </svg>

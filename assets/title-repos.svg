@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84" role="img" aria-label="Repositories">
+  <defs><linearGradient id="rb" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="600" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#00f5ff"/><stop offset="0.33" stop-color="#7c3aed"/><stop offset="0.66" stop-color="#ff5ecb"/><stop offset="1" stop-color="#ffb347"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1200 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient><filter id="gl" x="-30%" y="-50%" width="160%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <line x1="60" y1="42" x2="330" y2="42" stroke="url(#rb)" stroke-width="3" stroke-linecap="round" stroke-dasharray="10 10"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="1.6s" repeatCount="indefinite"/></line>
+  <line x1="870" y1="42" x2="1140" y2="42" stroke="url(#rb)" stroke-width="3" stroke-linecap="round" stroke-dasharray="10 10"><animate attributeName="stroke-dashoffset" from="0" to="40" dur="1.6s" repeatCount="indefinite"/></line>
+  <circle cx="348" cy="42" r="5" fill="#ff5ecb"><animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="852" cy="42" r="5" fill="#00f5ff"><animate attributeName="r" values="4;8;4" dur="2s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.4;1" dur="2s" begin="1s" repeatCount="indefinite"/></circle>
+  <rect x="365" y="6" width="470" height="72" rx="36" fill="#0f0c29"/><rect x="366" y="7" width="468" height="70" rx="35" fill="none" stroke="url(#rb)" stroke-width="2"/><text x="600" y="56" text-anchor="middle" font-family="'Segoe UI',Arial,Helvetica,sans-serif" font-size="38" font-weight="800" fill="url(#rb)" filter="url(#gl)">🤖 Repositories<animate attributeName="opacity" values="0.85;1;0.85" dur="3s" repeatCount="indefinite"/></text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="422" viewBox="0 0 1000 422" role="img" aria-label="Animated terminal introducing Devasanjay">
+  <defs><linearGradient id="tb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b3a"/></linearGradient><linearGradient id="rb" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="500" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#00f5ff"/><stop offset="0.33" stop-color="#7c3aed"/><stop offset="0.66" stop-color="#ff5ecb"/><stop offset="1" stop-color="#ffb347"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1000 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient></defs>
+  <rect x="2" y="2" width="996" height="418" rx="16" fill="url(#tb)"/>
+  <rect x="2" y="2" width="996" height="418" rx="16" fill="none" stroke="url(#rb)" stroke-width="2.5"/>
+  <path d="M2,18 a16,16 0 0 1 16,-16 h964 a16,16 0 0 1 16,16 v34 h-996 z" fill="#1c2128"/>
+  <circle cx="30" cy="28" r="7" fill="#ff5f56"><animate attributeName="opacity" values="1;0.6;1" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="54" cy="28" r="7" fill="#ffbd2e"><animate attributeName="opacity" values="1;0.6;1" dur="2.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+  <circle cx="78" cy="28" r="7" fill="#27c93f"><animate attributeName="opacity" values="1;0.6;1" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></circle>
+  <text x="500" y="33" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" fill="#8b949e">devasanjay@chennai: ~</text>
+  <clipPath id="c0"><rect x="42" y="88" height="32" width="0"><animate attributeName="width" values="0;0;91;91;0" keyTimes="0;0.0273;0.0582;0.9455;1" dur="22.0s" repeatCount="indefinite"/></rect></clipPath>
+  <text x="44" y="112" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" clip-path="url(#c0)" xml:space="preserve"><tspan fill="#7ee787">$ </tspan><tspan fill="#ffffff">whoami</tspan></text>
+  <clipPath id="c1"><rect x="42" y="128" height="32" width="0"><animate attributeName="width" values="0;0;528;528;0" keyTimes="0;0.1273;0.2091;0.9455;1" dur="22.0s" repeatCount="indefinite"/></rect></clipPath>
+  <text x="44" y="152" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" clip-path="url(#c1)" xml:space="preserve"><tspan fill="#a5f3fc">devasanjay · full-stack developer &amp; AI/ML engineer</tspan></text>
+  <clipPath id="c2"><rect x="42" y="168" height="32" width="0"><animate attributeName="width" values="0;0;206;206;0" keyTimes="0;0.2273;0.2757;0.9455;1" dur="22.0s" repeatCount="indefinite"/></rect></clipPath>
+  <text x="44" y="192" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" clip-path="url(#c2)" xml:space="preserve"><tspan fill="#7ee787">$ </tspan><tspan fill="#ffffff">cat education.txt</tspan></text>
+  <clipPath id="c3"><rect x="42" y="208" height="32" width="0"><animate attributeName="width" values="0;0;538;538;0" keyTimes="0;0.3273;0.4091;0.9455;1" dur="22.0s" repeatCount="indefinite"/></rect></clipPath>
+  <text x="44" y="232" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" clip-path="url(#c3)" xml:space="preserve"><tspan fill="#a5f3fc">B.E. CSE · Saveetha Engineering College · 2023-2027</tspan></text>
+  <clipPath id="c4"><rect x="42" y="248" height="32" width="0"><animate attributeName="width" values="0;0;154;154;0" keyTimes="0;0.4273;0.4677;0.9455;1" dur="22.0s" repeatCount="indefinite"/></rect></clipPath>
+  <text x="44" y="272" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" clip-path="url(#c4)" xml:space="preserve"><tspan fill="#7ee787">$ </tspan><tspan fill="#ffffff">ls projects/</tspan></text>
+  <clipPath id="c5"><rect x="42" y="288" height="32" width="0"><animate attributeName="width" values="0;0;549;549;0" keyTimes="0;0.5273;0.6091;0.9455;1" dur="22.0s" repeatCount="indefinite"/></rect></clipPath>
+  <text x="44" y="312" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" clip-path="url(#c5)" xml:space="preserve"><tspan fill="#a5f3fc">split/  defect-detection/  fertilizer-engine/  adda/</tspan></text>
+  <clipPath id="c6"><rect x="42" y="328" height="32" width="0"><animate attributeName="width" values="0;0;174;174;0" keyTimes="0;0.6273;0.6709;0.9455;1" dur="22.0s" repeatCount="indefinite"/></rect></clipPath>
+  <text x="44" y="352" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" clip-path="url(#c6)" xml:space="preserve"><tspan fill="#7ee787">$ </tspan><tspan fill="#ffffff">cat status.txt</tspan></text>
+  <clipPath id="c7"><rect x="42" y="368" height="32" width="0"><animate attributeName="width" values="0;0;549;549;0" keyTimes="0;0.7273;0.8091;0.9455;1" dur="22.0s" repeatCount="indefinite"/></rect></clipPath>
+  <text x="44" y="392" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" clip-path="url(#c7)" xml:space="preserve"><tspan fill="#a5f3fc">open to AI/ML · full-stack · computer-vision roles 🚀</tspan></text>
+  
+  <rect y="95" width="9" height="20" fill="#a5f3fc" opacity="0"><animate attributeName="x" values="44;44;129;129;44" keyTimes="0;0.0273;0.0582;0.9455;1" dur="22.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.0273;0.0582;0.9455;1" dur="22.0s" repeatCount="indefinite"/></rect>
+  <rect y="135" width="9" height="20" fill="#a5f3fc" opacity="0"><animate attributeName="x" values="44;44;566;566;44" keyTimes="0;0.1273;0.2091;0.9455;1" dur="22.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.1273;0.2091;0.9455;1" dur="22.0s" repeatCount="indefinite"/></rect>
+  <rect y="175" width="9" height="20" fill="#a5f3fc" opacity="0"><animate attributeName="x" values="44;44;244;244;44" keyTimes="0;0.2273;0.2757;0.9455;1" dur="22.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.2273;0.2757;0.9455;1" dur="22.0s" repeatCount="indefinite"/></rect>
+  <rect y="215" width="9" height="20" fill="#a5f3fc" opacity="0"><animate attributeName="x" values="44;44;576;576;44" keyTimes="0;0.3273;0.4091;0.9455;1" dur="22.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.3273;0.4091;0.9455;1" dur="22.0s" repeatCount="indefinite"/></rect>
+  <rect y="255" width="9" height="20" fill="#a5f3fc" opacity="0"><animate attributeName="x" values="44;44;192;192;44" keyTimes="0;0.4273;0.4677;0.9455;1" dur="22.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.4273;0.4677;0.9455;1" dur="22.0s" repeatCount="indefinite"/></rect>
+  <rect y="295" width="9" height="20" fill="#a5f3fc" opacity="0"><animate attributeName="x" values="44;44;587;587;44" keyTimes="0;0.5273;0.6091;0.9455;1" dur="22.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.5273;0.6091;0.9455;1" dur="22.0s" repeatCount="indefinite"/></rect>
+  <rect y="335" width="9" height="20" fill="#a5f3fc" opacity="0"><animate attributeName="x" values="44;44;212;212;44" keyTimes="0;0.6273;0.6709;0.9455;1" dur="22.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.6273;0.6709;0.9455;1" dur="22.0s" repeatCount="indefinite"/></rect>
+  <rect y="375" width="9" height="20" fill="#a5f3fc" opacity="0"><animate attributeName="x" values="44;44;587;587;44" keyTimes="0;0.7273;0.8091;0.9455;1" dur="22.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.9;0.9;0" keyTimes="0;0.7273;0.8091;0.9455;1" dur="22.0s" repeatCount="indefinite"/></rect>
+  
+</svg>
